@@ -13,9 +13,6 @@ const ComponentUseEffect = () => {
         console.log(state)
     },[state])
 
-
-
-
   return (
     <div>
 
